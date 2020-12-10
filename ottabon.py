@@ -1,0 +1,1 @@
+curl -XPOST -d 'method1=objects.create&arg1={"name":"abonent1", "parent_id":1, "tarif_id":1}' http://10.10.100.230:8082/rest_api/v2/Abonents/ -D -
